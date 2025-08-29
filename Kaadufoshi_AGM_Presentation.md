@@ -1,91 +1,93 @@
-# Kaadufoshi System Overview  
+# Kaadufoshi System Handover  
 ## Annual General Meeting – Centurion PLC
 
 ---
 
-### Slide 1: Introduction & Purpose
+### Slide 1: Introduction
 
 **Welcome, Shareholders!**
 
-Today we present an overview of the Kaadufoshi software platform, powering Centurion’s logistics and financial operations.
-
-- Ensuring transparency in technology investments
-- Highlighting strengths, risks, and future-readiness
+Today’s presentation covers the strategic handover of Centurion’s critical Kaadufoshi software platform from a single developer to a dedicated team in Chennai, India.
 
 ---
 
-### Slide 2: What is Kaadufoshi?
+### Slide 2: Why the Handover Matters
 
-**Kaadufoshi** is Centurion’s integrated digital backbone for logistics and accounting.
-
-- Modern web-based system (Laravel/PHP)
-- Automates, tracks, and secures business processes
-- Modular: Internal controls, customer notifications, workflow management
+- **Business Continuity:** Reduces operational risk if the sole developer becomes unavailable.
+- **Scalability:** Enables faster development and support for expanding operations.
+- **Resilience:** Ensures Centurion’s core logistics and accounting systems remain robust and secure.
 
 ---
 
-### Slide 3: Key Components
+### Slide 3: The Kaadufoshi Platform
 
-**1. Bithufangi**
-- Internal controls, finance, user and team management
-- Accounts, cheques, jobs, notifications, dashboards
-
-**2. Naalu**
-- Customer notifications (arrival, export, uncleared, demurrage)
-- Data conversion, SOA (Statement of Account) management
-
-**3. Majoori**
-- Workflow management (consignments, containers)
-- Advanced reporting and operational dashboards
+- **Integrated backbone** for logistics, notifications, and financial controls.
+- **Modules:**
+  - Bithufangi: Internal controls, finance, user management.
+  - Naalu: Customer notifications and data conversion.
+  - Majoori: Workflow and reporting.
 
 ---
 
-### Slide 4: Technology Stack
+### Slide 4: Current Risks
 
-- **Framework:** Laravel (PHP)
-- **Database:** MySQL/Postgres
-- **Notifications:** SMS, EDI, Email
-- **Security:** User permissions, error monitoring (Sentry)
-- **Reporting:** PDF, Excel exports
+- **Single Developer Dependency:** Knowledge is concentrated, creating vulnerability.
+- **Limited Documentation:** Makes onboarding new developers challenging.
+- **Upgrade/Support Risks:** Legacy code may slow progress or introduce bugs.
 
 ---
 
-### Slide 5: Business Impact
+### Slide 5: The Chennai Team Transition
 
-- Streamlined operations  
-- Faster customer communication  
-- Reliable financial tracking  
-- Real-time dashboards for decision-making
+**What’s Changing?**
+- A skilled software team in Chennai will take over maintenance and development.
+- Knowledge transfer sessions are planned with the original developer.
+- Documentation and process improvement will be prioritized.
 
----
-
-### Slide 6: Risks & Challenges
-
-- **Single Developer Risk:** Knowledge concentrated, succession plan needed
-- **Documentation:** Needs improvement for easier handover
-- **Legacy Code:** Some components may need upgrading
+**Immediate Benefits:**
+- Multiple experts for troubleshooting and enhancements.
+- Faster response to business needs.
+- Lower risk of disruption.
 
 ---
 
-### Slide 7: Next Steps & Recommendations
+### Slide 6: Steps for a Successful Handover
 
-- Expand documentation for maintainability
-- Audit and strengthen automated tests
-- Initiate phased training and knowledge transfer
-- Explore upgrade paths for long-term scalability
-
----
-
-### Slide 8: Conclusion
-
-- Kaadufoshi is a robust, strategic asset
-- Powers Centurion’s growth and operational discipline
-- With proper stewardship, it’s ready for future innovation
-
-**Thank you for your continued support!**
+1. **Full Knowledge Transfer**
+   - Workshops, Q&A, and shadowing sessions.
+2. **Improve Documentation**
+   - System architecture, user guides, process flows.
+3. **Test Coverage Audit**
+   - Ensuring reliable upgrades and bug fixes.
+4. **Establish Team Processes**
+   - Coding standards, reviews, automated deployment.
 
 ---
 
-### Slide 9: Q&A
+### Slide 7: Shareholder Value
 
-**Questions from Shareholders**
+- Protects Centurion’s technology investment.
+- Readies the platform for future innovation and growth.
+- Demonstrates strong corporate governance and risk management.
+
+---
+
+### Slide 8: Next Milestones
+
+- Completion of developer handover (Q4 2025)
+- Chennai team fully onboarded and active
+- Progress reports to management and shareholders
+
+---
+
+### Slide 9: Conclusion
+
+- Centurion is moving from vulnerability to strength.
+- The Kaadufoshi system will be in safe, scalable hands.
+- Thank you for supporting Centurion’s digital future!
+
+---
+
+### Slide 10: Questions
+
+**We welcome your feedback and queries.**
